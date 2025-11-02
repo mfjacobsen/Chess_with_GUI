@@ -1,3 +1,3 @@
-A game of chess against the computer.
+## A game of chess against the computer.
 
 ![Chess Board](Board.png)
